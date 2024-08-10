@@ -1,5 +1,5 @@
 # Environment Image Classification
-In this notebook, I've used Intel's image classification dataset. This involves images of scenes around the world. I've created 6 AI models for this problem.
+In this notebook, I've used Intel's image classification dataset. This involves images of scenes around the world. I've created 6 AI models for this problem. I've made data augmentation and preprocessing too.
 
 -> First model is a baseline model which doesn't use deep learning.
 
